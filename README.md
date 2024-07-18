@@ -1,4 +1,4 @@
-![logo](https://github.com/THAFSEERKS/THAFSEERKS/blob/main/github-header-image.png)
+![logo](https://github.com/THAFSEERKS/THAFSEERKS/blob/main/github-header-image%20(22).png)
 <h1 align="center">Hi 👋, I'm Muhammed Thafseer</h1>
 <h3 align="center">A passionate Front End Developer seeking new opportunities</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
